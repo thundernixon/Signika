@@ -264,4 +264,4 @@ for file in variable_ttf/*; do
     fi
 done
 
-# rm -rf variable_ttf
+rm -rf variable_ttf

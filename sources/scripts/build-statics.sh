@@ -146,5 +146,5 @@ done
 
 # # clean up build folders
 rm -rf instance_ufo
-# rm -rf instance_ttf
+rm -rf instance_ttf
 rm -rf master_ufo
